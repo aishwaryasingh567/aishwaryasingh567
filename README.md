@@ -1,4 +1,4 @@
-![logo](https://github.com/aishwaryasingh567/aishwaryasingh567/blob/master/MYgithubbanner.png)
+![logo](https://github.com/aishwaryasingh567/aishwaryasingh567/blob/master/mygithub2.png)
 <h1 align="center">Hi 👋, I'm ~Aishwarya Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
